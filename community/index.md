@@ -180,10 +180,10 @@ open-source project.
 
   <table class="stats">
   <tr><td>Since Akka HTTP version:</td><td>1.0-RC2</td></tr>
-  <tr><td>Latest Akka HTTP version:</td><td>1.0</td></tr>
+  <tr><td>Latest Akka HTTP version:</td><td>2.4.5</td></tr>
   <tr><td>Latest Releases:</td><td>
     <ul>
-      <li><code>"org.denigma" %% "akka-http-extensions" % "0.4"</code> (July 16, 2015)</li>
+      <li><code>"org.denigma" %% "akka-http-extensions" % "0.12"</code> (May 17, 2016)</li>
     </ul>
   </td></tr>
   </table>
